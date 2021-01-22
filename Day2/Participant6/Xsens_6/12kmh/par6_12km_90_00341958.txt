@@ -1,0 +1,5 @@
+// Start Time: Unknown
+// Update Rate: 75.0Hz
+// Filter Profile: human (34.3)
+// Firmware Version: 2.1.4
+PacketCounter	SampleTimeFine	Acc_X	Acc_Y	Acc_Z	Gyr_X	Gyr_Y	Gyr_Z	VelInc_X	VelInc_Y	VelInc_Z	OriInc_q0	OriInc_q1	OriInc_q2	OriInc_q3	
